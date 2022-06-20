@@ -1,0 +1,32 @@
+.app {
+  text-align: center;
+}
+
+.app-logo {
+  margin: 10px auto;
+  padding: 20px 0;
+  width: 144px;
+}
+
+.app-logo img {
+  object-fit: cover;
+  width: 100%;
+  cursor: pointer;
+}
+
+.app-title {
+  color: var(--theme-body-txt);
+  margin-top: 0.6rem;
+}
+
+.app-wrapper {
+  width: 100%;
+  max-width: 90rem;
+  margin: 0 auto;
+  padding: 0 0.5em;
+}
+
+.app-header {
+  display: flex;
+  justify-content: center;
+}
